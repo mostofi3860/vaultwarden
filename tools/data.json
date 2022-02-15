@@ -1,0 +1,59 @@
+{
+	"global.vaultTimeout": -1,
+	"global.vaultTimeoutAction": "lock",
+	"global": {
+		"locale": "en",
+		"theme": "system",
+		"window": {
+			"width": 950,
+			"height": 600,
+			"isMaximized": false,
+			"displayBounds": {
+				"x": 0,
+				"y": 0,
+				"width": 1440,
+				"height": 900
+			},
+			"x": 245,
+			"y": 94
+		},
+		"stateVersion": 3,
+		"environmentUrls": {
+			"base": "https://bitwarden.mandarin-medien.de",
+			"api": null,
+			"identity": null,
+			"webVault": null,
+			"icons": null,
+			"notifications": null,
+			"events": null,
+			"keyConnector": null
+		},
+		"openAtLogin": false,
+		"enableBiometrics": false,
+		"biometricText": "unlockWithTouchId",
+		"noAutoPromptBiometricsText": "noAutoPromptTouchId",
+		"installedVersion": "1.31.2"
+	},
+	"tempAccountSettings": {
+		"biometricLocked": null,
+		"environmentUrls": {
+			"base": null,
+			"api": null,
+			"identity": null,
+			"icons": null,
+			"notifications": null,
+			"events": null,
+			"webVault": null,
+			"keyConnector": null
+		},
+		"pinProtected": {
+			"decrypted": null,
+			"encrypted": null
+		},
+		"protectedPin": null,
+		"settings": null,
+		"vaultTimeout": -1,
+		"vaultTimeoutAction": "lock"
+	},
+	"authenticatedAccounts": []
+}
